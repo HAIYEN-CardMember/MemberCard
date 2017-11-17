@@ -1,0 +1,120 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\BUS.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\BUS.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\DAO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\DTO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\Utilities.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\Connection.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\EPPlus.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\DAO.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\DTO.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\Utilities.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\Connection.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\bin\Release\EPPlus.xml
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\obj\Release\BUS.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\BUS\obj\Release\BUS.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\BUS.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\BUS.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\DAO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\DTO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\Utilities.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\Connection.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\EPPlus.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\DAO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\DTO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\Utilities.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\Connection.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\bin\Release\EPPlus.xml
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\obj\Release\BUS.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\BUS\obj\Release\BUS.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\BUS.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\BUS.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\DAO.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\DTO.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\Utilities.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\Connection.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\EPPlus.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\DAO.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\DTO.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\Utilities.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\Connection.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\bin\Release\EPPlus.xml
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\obj\Release\BUS.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\BUS\obj\Release\BUS.pdb
+F:\Dev\MemberCardSVN\BUS\bin\Release\BUS.dll
+F:\Dev\MemberCardSVN\BUS\bin\Release\BUS.pdb
+F:\Dev\MemberCardSVN\BUS\bin\Release\DAO.dll
+F:\Dev\MemberCardSVN\BUS\bin\Release\DTO.dll
+F:\Dev\MemberCardSVN\BUS\bin\Release\Utilities.dll
+F:\Dev\MemberCardSVN\BUS\bin\Release\Connection.dll
+F:\Dev\MemberCardSVN\BUS\bin\Release\EPPlus.dll
+F:\Dev\MemberCardSVN\BUS\bin\Release\DAO.pdb
+F:\Dev\MemberCardSVN\BUS\bin\Release\DTO.pdb
+F:\Dev\MemberCardSVN\BUS\bin\Release\Utilities.pdb
+F:\Dev\MemberCardSVN\BUS\bin\Release\Connection.pdb
+F:\Dev\MemberCardSVN\BUS\bin\Release\EPPlus.xml
+F:\Dev\MemberCardSVN\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+F:\Dev\MemberCardSVN\BUS\obj\Release\BUS.dll
+F:\Dev\MemberCardSVN\BUS\obj\Release\BUS.pdb
+D:\HYEC\Website\MemberCard\BUS\bin\Release\BUS.dll
+D:\HYEC\Website\MemberCard\BUS\bin\Release\BUS.pdb
+D:\HYEC\Website\MemberCard\BUS\bin\Release\DAO.dll
+D:\HYEC\Website\MemberCard\BUS\bin\Release\DTO.dll
+D:\HYEC\Website\MemberCard\BUS\bin\Release\Utilities.dll
+D:\HYEC\Website\MemberCard\BUS\bin\Release\Connection.dll
+D:\HYEC\Website\MemberCard\BUS\bin\Release\EPPlus.dll
+D:\HYEC\Website\MemberCard\BUS\bin\Release\DAO.pdb
+D:\HYEC\Website\MemberCard\BUS\bin\Release\DTO.pdb
+D:\HYEC\Website\MemberCard\BUS\bin\Release\Utilities.pdb
+D:\HYEC\Website\MemberCard\BUS\bin\Release\Connection.pdb
+D:\HYEC\Website\MemberCard\BUS\bin\Release\EPPlus.xml
+D:\HYEC\Website\MemberCard\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\HYEC\Website\MemberCard\BUS\obj\Release\BUS.dll
+D:\HYEC\Website\MemberCard\BUS\obj\Release\BUS.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\BUS.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\BUS.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\DAO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\Utilities.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\EPPlus.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\DAO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\bin\Release\EPPlus.xml
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\obj\Release\BUS.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\BUS\obj\Release\BUS.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\BUS.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\BUS.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\DAO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\DTO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\Utilities.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\Connection.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\EPPlus.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\DAO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\DTO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\Connection.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\bin\Release\EPPlus.xml
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\obj\Release\BUS.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\BUS\obj\Release\BUS.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\BUS.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\BUS.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\DAO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\DTO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\Utilities.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\Connection.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\EPPlus.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\DAO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\DTO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\Utilities.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\Connection.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\bin\Release\EPPlus.xml
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\obj\Release\BUS.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\BUS\obj\Release\BUS.pdb

@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace DTO
+{
+    public class tblCustomer
+    {
+        public int Customer_ID { get; set; }
+        public string FullName { get; set; }
+        public string FullNameSearch { get; set; }
+        public int Gender_ID { get; set; }
+        public System.DateTime? DOB { get; set; }
+        public int? YOB { get; set; }
+        public string AddressLine1 { get; set; }
+        public string AddressLine2 { get; set; }
+        public string MobilePhone { get; set; }
+        public string Phone2 { get; set; }
+        public string Email { get; set; }
+
+        public tblCustomer()
+        {
+            Customer_ID = 0;
+            FullName = "";
+            FullNameSearch = null;
+            Gender_ID = 0;
+            DOB = (DateTime?)null;
+            YOB = (int?)null;
+            AddressLine1 = null;
+            AddressLine2 = null;
+            MobilePhone = null;
+            Phone2 = null;
+            Email = null;
+        }
+
+        public tblCustomer(System.Data.DataRow row)
+        {
+            Customer_ID = row["Customer_ID"].ToString() != "" ? Convert.ToInt32(row["Customer_ID"]) : 0;
+            FullName = row["FullName"].ToString();
+            FullNameSearch = row["FullNameSearch"].ToString();
+            Gender_ID = row["Gender_ID"].ToString() != "" ? Convert.ToInt32(row["Gender_ID"]) : 0;
+            DOB = row["DOB"].ToString() != "" ? Convert.ToDateTime(row["DOB"]) : (DateTime?)null;
+            YOB = row["YOB"].ToString() != "" ? Convert.ToInt32(row["YOB"]) : (int?)null;
+            AddressLine1 = row["AddressLine1"].ToString();
+            AddressLine2 = row["AddressLine2"].ToString();
+            MobilePhone = row["MobilePhone"].ToString();
+            Phone2 = row["Phone2"].ToString();
+            Email = row["Email"].ToString();
+        }
+    }
+}

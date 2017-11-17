@@ -1,0 +1,39 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\bin\Release\Core.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\bin\Release\Core.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\obj\Release\Core.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\obj\Release\Core.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\bin\Release\Core.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\bin\Release\Core.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\obj\Release\Core.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\obj\Release\Core.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Core\bin\Release\Core.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Core\bin\Release\Core.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Core\obj\Release\Core.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Core\obj\Release\Core.pdb
+F:\Dev\MemberCardSVN\Core\bin\Release\Core.dll
+F:\Dev\MemberCardSVN\Core\bin\Release\Core.pdb
+F:\Dev\MemberCardSVN\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+F:\Dev\MemberCardSVN\Core\obj\Release\Core.dll
+F:\Dev\MemberCardSVN\Core\obj\Release\Core.pdb
+D:\HYEC\Website\MemberCard\Core\bin\Release\Core.dll
+D:\HYEC\Website\MemberCard\Core\bin\Release\Core.pdb
+D:\HYEC\Website\MemberCard\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+D:\HYEC\Website\MemberCard\Core\obj\Release\Core.dll
+D:\HYEC\Website\MemberCard\Core\obj\Release\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\bin\Release\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\bin\Release\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\obj\Release\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\obj\Release\Core.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\bin\Release\Core.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\bin\Release\Core.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\obj\Release\Core.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\obj\Release\Core.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\bin\Release\Core.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\bin\Release\Core.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\obj\Release\Core.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\obj\Release\Core.pdb

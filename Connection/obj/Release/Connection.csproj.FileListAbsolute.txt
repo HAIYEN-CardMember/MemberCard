@@ -1,0 +1,40 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\bin\Release\Connection.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\bin\Release\Connection.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\obj\Release\Connection.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\obj\Release\Connection.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\bin\Release\Connection.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\bin\Release\Connection.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\obj\Release\Connection.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\obj\Release\Connection.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Connection\bin\Release\Connection.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Connection\bin\Release\Connection.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Connection\obj\Release\Connection.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\Connection\obj\Release\Connection.pdb
+F:\Dev\MemberCardSVN\Connection\bin\Release\Connection.dll
+F:\Dev\MemberCardSVN\Connection\bin\Release\Connection.pdb
+F:\Dev\MemberCardSVN\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+F:\Dev\MemberCardSVN\Connection\obj\Release\Connection.dll
+F:\Dev\MemberCardSVN\Connection\obj\Release\Connection.pdb
+D:\HYEC\Website\MemberCard\Connection\bin\Release\Connection.dll
+D:\HYEC\Website\MemberCard\Connection\bin\Release\Connection.pdb
+D:\HYEC\Website\MemberCard\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+D:\HYEC\Website\MemberCard\Connection\obj\Release\Connection.dll
+D:\HYEC\Website\MemberCard\Connection\obj\Release\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\bin\Release\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\bin\Release\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\obj\Release\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\obj\Release\Connection.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\bin\Release\Connection.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\bin\Release\Connection.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\obj\Release\Connection.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\obj\Release\Connection.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\bin\Release\Connection.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\bin\Release\Connection.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\obj\Release\Connection.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\obj\Release\Connection.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\obj\Release\Connection.pdb

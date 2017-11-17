@@ -1,0 +1,52 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\bin\Debug\Connection.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\bin\Debug\Connection.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\obj\Debug\Connection.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Connection\obj\Debug\Connection.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\bin\Debug\Connection.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\bin\Debug\Connection.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\obj\Debug\Connection.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Connection\obj\Debug\Connection.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Connection\bin\Debug\Connection.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Connection\bin\Debug\Connection.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Connection\obj\Debug\Connection.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Connection\obj\Debug\Connection.pdb
+C:\Users\Le\Desktop\Source-1304\Source\Connection\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\Source-1304\Source\Connection\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\Source-1304\Source\Connection\obj\Debug\Connection.dll
+C:\Users\Le\Desktop\Source-1304\Source\Connection\obj\Debug\Connection.pdb
+F:\Dev\MemberCardSVN\Connection\bin\Debug\Connection.dll
+F:\Dev\MemberCardSVN\Connection\bin\Debug\Connection.pdb
+F:\Dev\MemberCardSVN\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+F:\Dev\MemberCardSVN\Connection\obj\Debug\Connection.dll
+F:\Dev\MemberCardSVN\Connection\obj\Debug\Connection.pdb
+D:\HYEC\Website\MemberCard\Connection\bin\Debug\Connection.dll
+D:\HYEC\Website\MemberCard\Connection\bin\Debug\Connection.pdb
+D:\HYEC\Website\MemberCard\Connection\obj\Debug\Connection.dll
+D:\HYEC\Website\MemberCard\Connection\obj\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Connection\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Connection\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Connection\obj\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Connection\obj\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\obj\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Connection\obj\Debug\Connection.pdb
+D:\Work\mt\Code\MemberCard\Connection\bin\Debug\Connection.dll
+D:\Work\mt\Code\MemberCard\Connection\bin\Debug\Connection.pdb
+D:\Work\mt\Code\MemberCard\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+D:\Work\mt\Code\MemberCard\Connection\obj\Debug\Connection.dll
+D:\Work\mt\Code\MemberCard\Connection\obj\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\obj\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Connection\obj\Debug\Connection.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\bin\Debug\Connection.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\bin\Debug\Connection.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\obj\Debug\Connection.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Connection\obj\Debug\Connection.pdb

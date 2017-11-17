@@ -1,0 +1,132 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\DAO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\DAO.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\Connection.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\Core.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\Connection.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\Core.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\obj\Debug\DAO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\obj\Debug\DAO.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\DTO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DAO\bin\Debug\DTO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\DAO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\DAO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\Connection.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\Core.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\DTO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\Connection.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\Core.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\bin\Debug\DTO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\obj\Debug\DAO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DAO\obj\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\Connection.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\Connection.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\obj\Debug\DAO.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DAO\obj\Debug\DAO.pdb
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\DAO.dll
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\DAO.pdb
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\Core.dll
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\Source-1304\Source\DAO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\Source-1304\Source\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\Source-1304\Source\DAO\obj\Debug\DAO.dll
+C:\Users\Le\Desktop\Source-1304\Source\DAO\obj\Debug\DAO.pdb
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\DAO.dll
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\DAO.pdb
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\Connection.dll
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\Core.dll
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\DTO.dll
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\Connection.pdb
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\Core.pdb
+D:\LeTien\MemberCard\Project\DAO\bin\Debug\DTO.pdb
+D:\LeTien\MemberCard\Project\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\LeTien\MemberCard\Project\DAO\obj\Debug\DAO.dll
+D:\LeTien\MemberCard\Project\DAO\obj\Debug\DAO.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\DAO.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\DAO.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\Connection.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\Core.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\DTO.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\Connection.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\Core.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\bin\Debug\DTO.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\obj\Debug\DAO.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\DAO\obj\Debug\DAO.pdb
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\DAO.dll
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\DAO.pdb
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\Connection.dll
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\Core.dll
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\DTO.dll
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\Connection.pdb
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\Core.pdb
+D:\HYEC\Website\MemberCard\DAO\bin\Debug\DTO.pdb
+D:\HYEC\Website\MemberCard\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\HYEC\Website\MemberCard\DAO\obj\Debug\DAO.dll
+D:\HYEC\Website\MemberCard\DAO\obj\Debug\DAO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DAO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DAO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\obj\Debug\DAO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DAO\obj\Debug\DAO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DAO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DAO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\obj\Debug\DAO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DAO\obj\Debug\DAO.pdb
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\DAO.dll
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\DAO.pdb
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\Connection.dll
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\Core.dll
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\DTO.dll
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\Connection.pdb
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\Core.pdb
+D:\Work\mt\Code\MemberCard\DAO\bin\Debug\DTO.pdb
+D:\Work\mt\Code\MemberCard\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Work\mt\Code\MemberCard\DAO\obj\Debug\DAO.dll
+D:\Work\mt\Code\MemberCard\DAO\obj\Debug\DAO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\DAO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\DAO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\Connection.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\Connection.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\obj\Debug\DAO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DAO\obj\Debug\DAO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\DAO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\DAO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\Connection.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\Core.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\DTO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\Connection.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\Core.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\bin\Debug\DTO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\obj\Debug\DAO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DAO\obj\Debug\DAO.pdb

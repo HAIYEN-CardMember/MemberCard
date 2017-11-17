@@ -1,0 +1,39 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\bin\Release\DTO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\bin\Release\DTO.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\obj\Release\DTO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\obj\Release\DTO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\bin\Release\DTO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\bin\Release\DTO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\obj\Release\DTO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\obj\Release\DTO.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\DTO\bin\Release\DTO.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\DTO\bin\Release\DTO.pdb
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\DTO\obj\Release\DTO.dll
+C:\Users\Administrator\Desktop\Source-update-13-04-2016\Source\DTO\obj\Release\DTO.pdb
+F:\Dev\MemberCardSVN\DTO\bin\Release\DTO.dll
+F:\Dev\MemberCardSVN\DTO\bin\Release\DTO.pdb
+F:\Dev\MemberCardSVN\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+F:\Dev\MemberCardSVN\DTO\obj\Release\DTO.dll
+F:\Dev\MemberCardSVN\DTO\obj\Release\DTO.pdb
+D:\HYEC\Website\MemberCard\DTO\bin\Release\DTO.dll
+D:\HYEC\Website\MemberCard\DTO\bin\Release\DTO.pdb
+D:\HYEC\Website\MemberCard\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+D:\HYEC\Website\MemberCard\DTO\obj\Release\DTO.dll
+D:\HYEC\Website\MemberCard\DTO\obj\Release\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\bin\Release\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\bin\Release\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\obj\Release\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\obj\Release\DTO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\bin\Release\DTO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\bin\Release\DTO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\obj\Release\DTO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\obj\Release\DTO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\bin\Release\DTO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\bin\Release\DTO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\obj\Release\DTO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\obj\Release\DTO.pdb

@@ -1,0 +1,50 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\bin\Debug\Core.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\bin\Debug\Core.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\obj\Debug\Core.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Core\obj\Debug\Core.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\bin\Debug\Core.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\bin\Debug\Core.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\obj\Debug\Core.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Core\obj\Debug\Core.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Core\obj\Debug\Core.pdb
+C:\Users\Le\Desktop\Source-1304\Source\Core\bin\Debug\Core.dll
+C:\Users\Le\Desktop\Source-1304\Source\Core\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\Source-1304\Source\Core\obj\Debug\Core.dll
+C:\Users\Le\Desktop\Source-1304\Source\Core\obj\Debug\Core.pdb
+F:\Dev\MemberCardSVN\Core\bin\Debug\Core.dll
+F:\Dev\MemberCardSVN\Core\bin\Debug\Core.pdb
+F:\Dev\MemberCardSVN\Core\obj\Debug\Core.dll
+F:\Dev\MemberCardSVN\Core\obj\Debug\Core.pdb
+D:\HYEC\Website\MemberCard\Core\bin\Debug\Core.dll
+D:\HYEC\Website\MemberCard\Core\bin\Debug\Core.pdb
+D:\HYEC\Website\MemberCard\Core\obj\Debug\Core.dll
+D:\HYEC\Website\MemberCard\Core\obj\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Core\bin\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Core\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Core\obj\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Core\obj\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\bin\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\obj\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Core\obj\Debug\Core.pdb
+D:\Work\mt\Code\MemberCard\Core\bin\Debug\Core.dll
+D:\Work\mt\Code\MemberCard\Core\bin\Debug\Core.pdb
+D:\Work\mt\Code\MemberCard\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Work\mt\Code\MemberCard\Core\obj\Debug\Core.dll
+D:\Work\mt\Code\MemberCard\Core\obj\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\bin\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\bin\Debug\Core.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\obj\Debug\Core.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Core\obj\Debug\Core.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\bin\Debug\Core.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\bin\Debug\Core.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\obj\Debug\Core.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Core\obj\Debug\Core.pdb

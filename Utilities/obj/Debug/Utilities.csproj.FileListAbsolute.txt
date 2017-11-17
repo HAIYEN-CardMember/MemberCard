@@ -1,0 +1,83 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Utilities\bin\Debug\Utilities.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Utilities\bin\Debug\Utilities.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Utilities\obj\Debug\Utilities.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Utilities\obj\Debug\Utilities.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Utilities\bin\Debug\EPPlus.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Utilities\bin\Debug\EPPlus.xml
+D:\Work\mt\GitHub\LVT_QLYTV\Source\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Utilities\bin\Debug\Utilities.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Utilities\bin\Debug\EPPlus.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Utilities\bin\Debug\EPPlus.xml
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Utilities\obj\Debug\Utilities.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Utilities\bin\Debug\Utilities.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Utilities\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Utilities\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Utilities\obj\Debug\Utilities.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Le\Desktop\Source-1304\Source\Utilities\bin\Debug\Utilities.dll
+C:\Users\Le\Desktop\Source-1304\Source\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Le\Desktop\Source-1304\Source\Utilities\bin\Debug\EPPlus.dll
+C:\Users\Le\Desktop\Source-1304\Source\Utilities\bin\Debug\EPPlus.xml
+C:\Users\Le\Desktop\Source-1304\Source\Utilities\obj\Debug\Utilities.dll
+C:\Users\Le\Desktop\Source-1304\Source\Utilities\obj\Debug\Utilities.pdb
+F:\Dev\MemberCardSVN\Utilities\bin\Debug\Utilities.dll
+F:\Dev\MemberCardSVN\Utilities\bin\Debug\Utilities.pdb
+F:\Dev\MemberCardSVN\Utilities\bin\Debug\EPPlus.dll
+F:\Dev\MemberCardSVN\Utilities\bin\Debug\EPPlus.xml
+F:\Dev\MemberCardSVN\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+F:\Dev\MemberCardSVN\Utilities\obj\Debug\Utilities.dll
+F:\Dev\MemberCardSVN\Utilities\obj\Debug\Utilities.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\Utilities\bin\Debug\Utilities.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\Utilities\bin\Debug\Utilities.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\Utilities\bin\Debug\EPPlus.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\Utilities\bin\Debug\EPPlus.xml
+D:\Work\mt\VT\Project\membercard2016\trunk\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Work\mt\VT\Project\membercard2016\trunk\Utilities\obj\Debug\Utilities.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\Utilities\obj\Debug\Utilities.pdb
+D:\HYEC\Website\MemberCard\Utilities\bin\Debug\Utilities.dll
+D:\HYEC\Website\MemberCard\Utilities\bin\Debug\Utilities.pdb
+D:\HYEC\Website\MemberCard\Utilities\bin\Debug\EPPlus.dll
+D:\HYEC\Website\MemberCard\Utilities\bin\Debug\EPPlus.xml
+D:\HYEC\Website\MemberCard\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\HYEC\Website\MemberCard\Utilities\obj\Debug\Utilities.dll
+D:\HYEC\Website\MemberCard\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\Utilities.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\EPPlus.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\EPPlus.xml
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Utilities\obj\Debug\Utilities.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\Utilities.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\EPPlus.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Utilities\bin\Debug\EPPlus.xml
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Utilities\obj\Debug\Utilities.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\Utilities\obj\Debug\Utilities.pdb
+D:\Work\mt\Code\MemberCard\Utilities\bin\Debug\Utilities.dll
+D:\Work\mt\Code\MemberCard\Utilities\bin\Debug\Utilities.pdb
+D:\Work\mt\Code\MemberCard\Utilities\bin\Debug\EPPlus.dll
+D:\Work\mt\Code\MemberCard\Utilities\bin\Debug\EPPlus.xml
+D:\Work\mt\Code\MemberCard\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Work\mt\Code\MemberCard\Utilities\obj\Debug\Utilities.dll
+D:\Work\mt\Code\MemberCard\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Utilities\bin\Debug\Utilities.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Utilities\bin\Debug\EPPlus.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Utilities\bin\Debug\EPPlus.xml
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Utilities\obj\Debug\Utilities.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\Utilities\obj\Debug\Utilities.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Utilities\bin\Debug\Utilities.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Utilities\bin\Debug\Utilities.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Utilities\bin\Debug\EPPlus.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Utilities\bin\Debug\EPPlus.xml
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Utilities\obj\Debug\Utilities.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\Utilities\obj\Debug\Utilities.pdb

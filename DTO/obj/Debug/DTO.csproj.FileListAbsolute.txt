@@ -1,0 +1,50 @@
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\bin\Debug\DTO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\bin\Debug\DTO.pdb
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\obj\Debug\DTO.dll
+D:\Work\mt\GitHub\LVT_QLYTV\Source\DTO\obj\Debug\DTO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\bin\Debug\DTO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\bin\Debug\DTO.pdb
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\obj\Debug\DTO.dll
+C:\Users\tienlv.MAT16\Desktop\LVT_QLYTVv4\LVT_QLYTV\Source\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\MemberCard\LVT_QLYTVv4\LVT_QLYTV\Full source\Source\DTO\obj\Debug\DTO.pdb
+C:\Users\Le\Desktop\Source-1304\Source\DTO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\Source-1304\Source\DTO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\Source-1304\Source\DTO\obj\Debug\DTO.dll
+C:\Users\Le\Desktop\Source-1304\Source\DTO\obj\Debug\DTO.pdb
+D:\LeTien\MemberCard\Project\DTO\bin\Debug\DTO.dll
+D:\LeTien\MemberCard\Project\DTO\bin\Debug\DTO.pdb
+D:\LeTien\MemberCard\Project\DTO\obj\Debug\DTO.dll
+D:\LeTien\MemberCard\Project\DTO\obj\Debug\DTO.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DTO\bin\Debug\DTO.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\DTO\bin\Debug\DTO.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DTO\obj\Debug\DTO.dll
+D:\Work\mt\VT\Project\membercard2016\trunk\DTO\obj\Debug\DTO.pdb
+D:\Work\mt\VT\Project\membercard2016\trunk\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\HYEC\Website\MemberCard\DTO\bin\Debug\DTO.dll
+D:\HYEC\Website\MemberCard\DTO\bin\Debug\DTO.pdb
+D:\HYEC\Website\MemberCard\DTO\obj\Debug\DTO.dll
+D:\HYEC\Website\MemberCard\DTO\obj\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DTO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DTO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DTO\obj\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\MemberCard - Sang ban giao\MemberCard\DTO\obj\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\obj\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard - 17052017\Code\MemberCard - Sang ban giao\MemberCard\DTO\obj\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\bin\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\bin\Debug\DTO.pdb
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\obj\Debug\DTO.dll
+C:\Users\Le\Desktop\MemberCard-MT\MemberCard\DTO\obj\Debug\DTO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\bin\Debug\DTO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\bin\Debug\DTO.pdb
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\obj\Debug\DTO.dll
+F:\Job\Haiyen Eye Group\Digital Marketing\Developer project\MemberCard-Final\MemberCard\DTO\obj\Debug\DTO.pdb
